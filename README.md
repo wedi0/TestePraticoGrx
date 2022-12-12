@@ -1,10 +1,10 @@
 # TestePraticoGrx
 
-1 - Alternativa A
+1 -  A
 
-2 - Alternativa B
+2 - B
 
-3 - Alternativa B
+3 - B
 
 Teste de mesa: 
 Quando:
@@ -14,7 +14,7 @@ a = 10 + 1   -> a = 11;
 i = 0 + 1    -> i = 1;
 
 
-4 - Alternativa A
+4 - A
 
 Teste de mesa:
 i = 0 < i < 10 i + 1 = 1
@@ -35,8 +35,7 @@ a = 5 // recebe 5 cada vez que o for repete
 
 x = 0 // zera o x em toda repetição
 
-5 - Alternativa C
-
+5 - C
 (Função recursiva que retorna o fatorial de 5)
 
 se 5 > 1 
@@ -57,8 +56,7 @@ retorna 5 * 1
 
 se 1 > 1 - // acabou a repetição
 
-6 - Alternativa D
-
+6 -  D
 7 - CRUD (Create, Read, Update, Delete) são as quatro operações básicas utilizadas no uso de um banco de dados.
 
 8 - O Front-end está relacionado diretamente com a interface gráfica do projeto, a grosso modo é a parte visual que o usuário interage. Um exemplo de front-end seria as mensagens, imagens, botões e etc que a gente vê em sites. 
